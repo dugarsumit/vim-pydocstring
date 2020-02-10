@@ -1,2 +1,1 @@
-{{_indent_}}Args:
-{{_nested_indent_}}{{_args_}}({{_type_}}):
+{{_name_}}({{_type_}}): {{_lf_}}
