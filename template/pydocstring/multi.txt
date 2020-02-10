@@ -4,6 +4,6 @@
 {{_indent_}}Args:
 {{_nested_indent_}}{{_args_}}:
 
-Returns:
-{{_indent_}}{{_return_type_}}:
+{{_indent_}}Returns:
+{{_nested_indent_}}{{_return_type_}}:
 """
